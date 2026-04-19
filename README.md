@@ -50,4 +50,4 @@ Region-wise Sales Distribution
 4.	Improves User Experience
 5.	Used in Real Business Dashboards
    Dashboard image
-  	
+  	- <a href="https://github.com/Divya-Solanke/data_analysis_dashboard/blob/main/dashboard.png">
