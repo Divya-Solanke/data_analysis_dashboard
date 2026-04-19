@@ -3,11 +3,10 @@
                       This project analyses sales data to understand business performance
 #Dataset Used
 - <a href="https://github.com/Divya-Solanke/data_analysis_dashboard/blob/main/Sample%20-%20Superstore.csv">Dataset</a>
+
 	Analysis:
 1] Card Visuals
 •	A Card Visual in Power BI is used to show one important number clearly on  dashboard.
-•	Card visuals are used in the dashboard to display key performance indicators such as total sales, total profit, and total orders. 
-•	These visuals provide a quick and clear summary of business performance, enabling users to understand important metrics briefly without analysing detailed charts.
 	Main Purpose:
 1.	Instant Summary of Business Performance
 2.	Focus on Key KPIs
@@ -17,8 +16,6 @@
 
 2]Bar Chart
 •	A Bar Chart is used to compare values between different categories using rectangular bars.
-•	A bar chart is used to compare sales and profit across different categories and regions. 
-•	It helps in identifying the best and worst performing segments of the business, making it easier to analyse trends and support decision-making.
 	  Main Purpose:
 1.	Easy Comparison
 2.	Clear Visualization
@@ -27,9 +24,6 @@
 
 3] Line Chart:
 	A Line Chart is used to show how data changes over time.
-	A line chart is used to analyse sales trends over time.
-	It helps in identifying patterns, seasonal variations, and growth or decline in business performance. 
-	This visualization supports better forecasting and decision-making.
 	     Main Purpose:
                       1.To Show Trends Over Time
                       2.Identify Seasonal Patterns
@@ -41,9 +35,6 @@
 Region-wise Sales Distribution
 •	Regions: East, West, North, South 
 •	Values: Sales 
-The pie chart shows:
-•	Which region contributes most to total sales? 
-•	Which region contributes least?
 	Main Purpose:
                                           1.Shows Contribution
                                           2. Easy to Understand
@@ -51,14 +42,12 @@ The pie chart shows:
                                           4. Helps in Business Decisions
                                           5. Common in Dashboards
 5]Slicer:
-•	A Slicer is used to filter data interactively in your dashboard.
-•	Slicers are used to provide interactive filtering options in the dashboard. 
-•	They allow users to filter data based on region and category, making it easier to analyse specific segments and gain deeper insights. 
-•	This enhances the usability and interactivity of the dashboard.
-   
+•	A Slicer is used to filter data interactively in your dashboard.  
 	Main Purpose:
 1.	Makes Dashboard Interactive
 2.	Easy Data Filtering
 3.	Better Data Analysis
 4.	Improves User Experience
 5.	Used in Real Business Dashboards
+   Dashboard image
+  	
